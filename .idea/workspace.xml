@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78f82b81-3865-4830-bfd7-649be3939b09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIZr6MOLOsgxqdkWcwNBgVidFG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+  </component>
+  <component name="RunManager" selected="JUnit.HotelTest">
+    <configuration name="BedRoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeclanHotel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BedRoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConferenceRoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeclanHotel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConferenceRoomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeclanHotel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeclanHotel" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HotelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HotelTest" />
+        <item itemvalue="JUnit.ConferenceRoomTest" />
+        <item itemvalue="JUnit.BedRoomTest" />
+        <item itemvalue="JUnit.GuestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78f82b81-3865-4830-bfd7-649be3939b09" name="Default Changelist" comment="" />
+      <created>1584528763949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584528763949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1584539699261">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="464" y="76" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1584532267212" />
+    <state x="464" y="91" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1280.720@0.23.1280.720" timestamp="1584539699261" />
+    <state x="464" y="91" key="#com.intellij.ide.util.MemberChooser/0.23.1280.720@0.23.1280.720" timestamp="1584530314444" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1584544404314">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1584544365606" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1280.743@0.0.1280.743" timestamp="1584538941957" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1584541640365" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1280.720@0.23.1280.720" timestamp="1584544404314" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1584544404312">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1584544365598" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1280.743@0.0.1280.743" timestamp="1584538941955" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1584541640320" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1280.720@0.23.1280.720" timestamp="1584544404312" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1584544404291">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1584544365594" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1280.743@0.0.1280.743" timestamp="1584538941953" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1584541640318" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1280.720@0.23.1280.720" timestamp="1584544404291" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1584544404313">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1584544365601" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1280.743@0.0.1280.743" timestamp="1584538941956" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1280.800@0.0.1280.800" timestamp="1584541640327" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1280.720@0.23.1280.720" timestamp="1584544404313" />
+  </component>
+</project>
